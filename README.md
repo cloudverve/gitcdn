@@ -11,4 +11,5 @@ It is an experiment in proxying Git content via KeyCDN for purposes of fun and e
 - Consolidate sub-domains
 - Add Brotli compression
 - Create front-end page
+- Replace filesystem caching with Redis?
 - Possibly support multiple CDN providers (low priority)
